@@ -1,0 +1,43 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'18'
+-sourcepath
+'C:/Users/menager/Documents/NetBeansProjects/StockProgram/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/menager/Documents/NetBeansProjects/StockProgram/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'StockProgram 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'StockProgram 1.0-SNAPSHOT API'
+com.mycompany.stockprogram
+C:\Users\menager\Documents\NetBeansProjects\StockProgram\src\main\java = 1696406023602
+C:\Users\menager\Documents\NetBeansProjects\StockProgram\target\site\apidocs\allclasses-index.html = 1696597176373
+C:\Users\menager\Documents\NetBeansProjects\StockProgram\target\site\apidocs\allpackages-index.html = 1696597176373
+C:\Users\menager\Documents\NetBeansProjects\StockProgram\target\site\apidocs\copy.svg = 1696597176405
+C:\Users\menager\Documents\NetBeansProjects\StockProgram\target\site\apidocs\element-list = 1696597176317
+C:\Users\menager\Documents\NetBeansProjects\StockProgram\target\site\apidocs\help-doc.html = 1696597176404
+C:\Users\menager\Documents\NetBeansProjects\StockProgram\target\site\apidocs\index-all.html = 1696597176393
+C:\Users\menager\Documents\NetBeansProjects\StockProgram\target\site\apidocs\index.html = 1696597176398
+C:\Users\menager\Documents\NetBeansProjects\StockProgram\target\site\apidocs\jquery-ui.overrides.css = 1696597176425
+C:\Users\menager\Documents\NetBeansProjects\StockProgram\target\site\apidocs\member-search-index.js = 1696597176382
+C:\Users\menager\Documents\NetBeansProjects\StockProgram\target\site\apidocs\module-search-index.js = 1696597176373
+C:\Users\menager\Documents\NetBeansProjects\StockProgram\target\site\apidocs\overview-tree.html = 1696597176353
+C:\Users\menager\Documents\NetBeansProjects\StockProgram\target\site\apidocs\package-search-index.js = 1696597176380
+C:\Users\menager\Documents\NetBeansProjects\StockProgram\target\site\apidocs\script.js = 1696597176405
+C:\Users\menager\Documents\NetBeansProjects\StockProgram\target\site\apidocs\search.js = 1696597176405
+C:\Users\menager\Documents\NetBeansProjects\StockProgram\target\site\apidocs\stylesheet.css = 1696597176405
+C:\Users\menager\Documents\NetBeansProjects\StockProgram\target\site\apidocs\tag-search-index.js = 1696597176383
+C:\Users\menager\Documents\NetBeansProjects\StockProgram\target\site\apidocs\type-search-index.js = 1696597176381
